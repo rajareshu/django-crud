@@ -1,0 +1,9 @@
+create new Branch
+1. git branch <branch name>
+how to checkout branch
+2. git checkout <branch name>
+how to mearge branch
+3. git mearge origin <branch name>
+
+# what is git confrig
+git congig use to add your email and username 
